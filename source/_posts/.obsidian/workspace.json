@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dd805081bcf85bea",
@@ -146,6 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "daf11634c06dd451",
+  "active": "2592fb1087ca5bd8",
   "lastOpenFiles": []
 }
